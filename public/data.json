@@ -5,7 +5,7 @@
     "education": "Master of Psychology",
     "experience": "5years",
     "speciality": "hospitality",
-    "img": "../../image/profile.png"
+    "img": "./assets/profile1.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "education": "Master of Psychology",
     "experience": "5years",
     "speciality": "hospitality",
-    "img": "../src/assets/profile2.jpg"
+    "img": "./assets/profile2.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "education": "Master of Psychology",
     "experience": "5years",
     "speciality": "hospitality",
-    "img": "../src/assets/profile3.jpg"
+    "img": "./assets/profile3.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "education": "Master of Psychology",
     "experience": "5years",
     "speciality": "hospitality",
-    "img": "../src/assets/profile4.jpg"
+    "img": "./assets/profile4.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "education": "Master of Psychology",
     "experience": "5years",
     "speciality": "hospitality",
-    "img": "../src/assets/profile5.jpg"
+    "img": "./assets/profile5.jpg"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "education": "Master of Psychology",
     "experience": "5years",
     "speciality": "hospitality",
-    "img": "../src/assets/profile6.jpg"
+    "img": "./assets/profile6.jpg"
   }
 ]

@@ -6,7 +6,7 @@ import Home from './components/Pages/Home/Home';
 
 function App() {
   return (
-    <div className="App">
+    <div className="max-w-[1400]">
       <Header />
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
