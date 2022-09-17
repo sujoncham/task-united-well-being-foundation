@@ -11,7 +11,7 @@ import Home from './components/Pages/Home/Home';
 
 function App() {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto p-5">
       <Header />
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
