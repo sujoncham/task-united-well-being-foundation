@@ -4,7 +4,7 @@
     "name": "Modhumita Das",
     "education": "Master of Psychology",
     "experience": "5years",
-    "speciality": "hospitality",
+    "speciality": "Clinical Psychologists",
     "img": "./assets/profile1.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Jone Carry",
     "education": "Master of Psychology",
     "experience": "5years",
-    "speciality": "hospitality",
+    "speciality": "Counseling Psychologists",
     "img": "./assets/profile2.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Joe Biden",
     "education": "Master of Psychology",
     "experience": "5years",
-    "speciality": "hospitality",
+    "speciality": "Cognitive Neuropsychologists",
     "img": "./assets/profile3.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Hary Poter",
     "education": "Master of Psychology",
     "experience": "5years",
-    "speciality": "hospitality",
+    "speciality": "Educational Psychologists",
     "img": "./assets/profile4.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Nikulas Soren",
     "education": "Master of Psychology",
     "experience": "5years",
-    "speciality": "hospitality",
+    "speciality": "Forensic Psychologists",
     "img": "./assets/profile5.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Elizabeth mery",
     "education": "Master of Psychology",
     "experience": "5years",
-    "speciality": "hospitality",
+    "speciality": "Military Psychologists",
     "img": "./assets/profile6.jpg"
   }
 ]
