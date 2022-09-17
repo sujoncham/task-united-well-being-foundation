@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Modhumita Das",
+    "education": "Master of Psychology",
+    "experience": "5years",
+    "speciality": "hospitality",
+    "img": "../../image/profile.png"
+  },
+  {
+    "id": 2,
+    "name": "Jone Carry",
+    "education": "Master of Psychology",
+    "experience": "5years",
+    "speciality": "hospitality",
+    "img": "../src/assets/profile2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Joe Biden",
+    "education": "Master of Psychology",
+    "experience": "5years",
+    "speciality": "hospitality",
+    "img": "../src/assets/profile3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hary Poter",
+    "education": "Master of Psychology",
+    "experience": "5years",
+    "speciality": "hospitality",
+    "img": "../src/assets/profile4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nikulas Soren",
+    "education": "Master of Psychology",
+    "experience": "5years",
+    "speciality": "hospitality",
+    "img": "../src/assets/profile5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Elizabeth mery",
+    "education": "Master of Psychology",
+    "experience": "5years",
+    "speciality": "hospitality",
+    "img": "../src/assets/profile6.jpg"
+  }
+]
