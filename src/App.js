@@ -2,6 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
+import Login from './components/Login/Login';
 import Page404 from './components/Pages/404Page/Page404';
 import About from './components/Pages/About/About';
 import Appointment from './components/Pages/Appointment/Appointment';
@@ -11,7 +12,7 @@ import Home from './components/Pages/Home/Home';
 
 function App() {
   return (
-    <div className="container mx-auto p-5">
+    <div className="container mx-auto px-5">
       <Header />
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
@@ -19,6 +20,7 @@ function App() {
         <Route path='/blog' element={<Blog></Blog>}></Route>
         <Route path='/appointment' element={<Appointment></Appointment>}></Route>
         <Route path='/contact' element={<Contact></Contact>}></Route>
+        <Route path='/login' element={<Login></Login>}></Route>
         <Route path='*' element={<Page404></Page404>}></Route>
       </Routes>
       <Footer />
