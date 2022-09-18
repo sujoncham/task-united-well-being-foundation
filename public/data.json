@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Kate kane",
-    "education": "Master of Psychology",
+    "education": "Phd of Psychology",
     "experience": "5years",
     "speciality": "Clinical Psychologists",
     "img": "./assets/profile1.jpg"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Mendaline Biden",
-    "education": "Master of Psychology",
+    "education": "Phd of Psychology",
     "experience": "5years",
     "speciality": "Cognitive Neuropsychologists",
     "img": "./assets/profile3.jpg"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Elizabeth mery",
-    "education": "Master of Psychology",
+    "education": "Phd of Psychology",
     "experience": "5years",
     "speciality": "Military Psychologists",
     "img": "./assets/profile6.jpg"

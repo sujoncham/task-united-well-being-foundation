@@ -17,8 +17,10 @@ const Home = () => {
                      
                     <div className="card-body">
                         
-                            <h2 className="card-title text-[#f19b1a]">{sycho.name}</h2>
-                            <p>Education: {sycho.education}</p>
+                           <div className='mb-4'>
+                                <span className="card-title text-[#f19b1a] text-2xl">{sycho.name}</span>
+                                <span>({sycho.education})</span>
+                           </div>
                             <p>Experience: {sycho.experience}</p>
                             <p>Speciality: {sycho.speciality}</p>
                             <div className="flex justify-center gap-5 mt-5 mb-5">
