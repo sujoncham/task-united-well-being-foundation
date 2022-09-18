@@ -1,6 +1,6 @@
 # Task(ReactJs)
 
-This project Github Link: (https://github.com/sujoncham/task-united-well-being-foundation.git).
+This project Github Link: (https://github.com/sujoncham/task-united-well-being-foundation).
 This project Live Link: (https://mellifluous-crumble-3fd422.netlify.app/).
 
 ## What have I done
