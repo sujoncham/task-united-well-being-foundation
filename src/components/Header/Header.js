@@ -22,10 +22,7 @@ const Header = () => {
                     {myMenu}
                 </ul>
                 </div>
-                <Link to='/' className="btn btn-ghost normal-case text-xl text-[#f19b1a]">
-                    <span className='flex xs:hidden sm:hidden md:hidden'> UWB Foundation </span>
-                    <span className='hidden lg:flex'>United Well-Being Foundation</span>
-                </Link>
+                <Link to='/' className="btn btn-ghost normal-case text-xl text-[#f19b1a]"> UWB Foundation </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">
